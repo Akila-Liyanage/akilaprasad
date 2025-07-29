@@ -1,36 +1,88 @@
-Conversation opened. 1 unread message.
+<div align="center">
 
-Skip to content
-Using Gmail with screen readers
-1 of 7,092
-(no subject)
-Inbox
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Akila Liyanage
 
-Pasan Udara
-12:43 PM (1 minute ago)
-to me
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=A+passionate+tech+lover+from+Sri+Lanka;Full+Stack+Developer;AI%2FML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
-<h1 align="center">Hi 👋, I'm Akila Liyanage</h1>
-<h3 align="center">A passionate tech lover from Sri Lanaka</h3>
+![Profile views](https://komarev.com/ghpvc/?username=akilaliyanage&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanudara&label=Profile%20views&color=0e75b6&style=flat" alt="pasanudara" /> </p>
+</div>
 
-- 🌱 I’m currently learning **React,Kotlin, MongoDB, ExpressJS, NodeJS, AI/ML**
+---
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> About Me
+
+- 🌱 I'm currently learning **React, Kotlin, MongoDB, ExpressJS, NodeJS, AI/ML**
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Python, MySQL, PHP**
+- 📫 How to reach me: **akilaprasad001@gmail.com**
+- ⚡ Fun fact: I love exploring new technologies and building innovative solutions!
 
-- 📫 How to reach me **akilaprasad001@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akila-prasad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akila-liyanage" height="30" width="40" /></a>
-</p>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/akila-prasad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akilaliyanage&show_icons=true&locale=en&layout=compact" alt="akilaliyanage" /></p>
+---
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Languages and Tools:
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,bootstrap,linux&theme=light" />
+</div>
 
+### Currently Learning:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,kotlin,mongodb,express,nodejs&theme=light" />
+</div>
 
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akilaliyanage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilaliyanage&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akilaliyanage&theme=tokyonight" alt="mystreak"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Activity Graph:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilaliyanage&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Random Dev Quote:
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35"> Fun Animations:
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+### <div align="center">Show some ❤️ by starring some of the repositories!</div>
